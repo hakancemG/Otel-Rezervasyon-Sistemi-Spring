@@ -1,5 +1,6 @@
 # Otel Rezervasyon Sistemi (Hakan Cem Gerçek 01.08.2025)
 
+Java Spring Boot ile yazılmış, HTTP üzerinden JSON veri sunan, katmanlı yapıda bir back-end RESTful Web API uygulaması.
 Spring Boot tabanlı bu proje, bir otel işletmesi için temel rezervasyon, müşteri ve oda yönetimi işlevlerini sağlamaktadır. Resepsiyonist ve yönetici (admin) rollerine göre yetkilendirilmiş kullanıcı erişimi sunar.
 
 ## Teknolojiler
